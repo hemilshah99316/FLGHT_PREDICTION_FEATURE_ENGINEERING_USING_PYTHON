@@ -1,4 +1,4 @@
-# ✈️ Airline Data Feature Engineering Proje
+# ✈️ Airline Data Feature Engineering Project
 
 
 ## 📊 Overview
